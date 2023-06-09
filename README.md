@@ -3,8 +3,7 @@
 This project is a GitHub username finder script that utilizes a github Web Service Endpoint to check the availability of usernames. It generates a list of potential usernames based on a given pattern and then checks each username's availability on GitHub. The available usernames are stored in an array for further analysis or processing.
 
 ## Demo
-
-
+https://github.com/aahx/GitHub-Username-Finder-Pro-Automated-Requests/assets/105463926/5a748eb1-8ee4-433b-b130-527cd09132b9
 
 ## How to Use
 To clone this repository and run the script on your own system, follow these steps:
