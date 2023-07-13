@@ -1,5 +1,9 @@
 # GitHub Username Finder Pro: Automated Search
 
+## Description:
+Created an original script to find the shortest available GitHub username. The script checks if a username is available. It automatically ran over 500,000 parameters, including all 2-char alphanumeric, 3-letter, and 4-letter combinations. Successfully secured the lowest available username - ‘aahx’.
+
+...
 This project is a GitHub username finder script that utilizes a github Web Service Endpoint to check the availability of usernames. It generates a list of potential usernames based on a given pattern and then checks each username's availability on GitHub. The available usernames are stored in an array for further analysis or processing.
 
 ## Demo
